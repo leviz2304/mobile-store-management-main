@@ -1,0 +1,23 @@
+*************************** Hóa Đơn Thanh Toán ************************
+
+Mã hóa đơn: HD11
+
+Tên khách hàng: Bùi Lương Bích Hạnh
+
+Tên nhân viên: Nguyễn Thị Hồng Hạnh
+
+Danh sách mua hàng
+—————————————————————————————
+Sản Phẩm                                SL        Thành Tiền
+
+Nokia 210                               2         1580000   
+
+Philips E220                            2         1176000   
+—————————————————————————————
+Chiết khấu: 0
+
+Tổng tiền: 2756000
+
+Nhận tiền: 5000000
+
+Tiền thừa: 2244000

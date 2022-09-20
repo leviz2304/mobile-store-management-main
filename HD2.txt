@@ -1,0 +1,21 @@
+*************************** Hóa Đơn Thanh Toán ************************
+
+Mã hóa đơn: HD2
+
+Tên khách hàng: Đặng Thị Kiều Tiên
+
+Tên nhân viên: Nguyễn Thị Hồng Hạnh
+
+Danh sách mua hàng
+—————————————————————————————
+Sản Phẩm                                SL        Thành Tiền
+
+Samsung Galaxy Note 10                  1         10990000  
+—————————————————————————————
+Chiết khấu: 1000000
+
+Tổng tiền: 10990000
+
+Nhận tiền: 20000000
+
+Tiền thừa: 9010000
